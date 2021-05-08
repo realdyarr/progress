@@ -1,0 +1,6 @@
+#Installing this modules
+
+pip install tqdm
+pip install time
+
+thx
